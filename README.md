@@ -54,29 +54,6 @@
     <li><a href="https://www.nist.gov/cybersecurity-framework">NIST Cybersecurity Framework</a></li>
     <li><a href="https://www.sans.org/">SANS Institute Information Security Reading Room</a></li>
     <li><a href="https://coursera.org/specializations/cybersecurity">Coursera Cybersecurity Specializations</a></li>
+    <li><a href="https://aws.amazon.com/what-is/grc/">AWS Amazon GRC</a></li>
   </ul>
   <a href="index.html">Back to Main Page</a>
-</body>
-</html>
-body {
-  font-family: sans-serif;
-  margin: 20px;
-}
-
-h1, h2 {
-  text-align: center;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin-bottom: 10px;
-}
-
-a {
-  color: blue;
-  text-decoration: none;
-}
