@@ -10,7 +10,7 @@
   <h1>The GRC Analyst's Journey</h1>
   <p>A step-by-step guide to navigating the world of Governance, Risk, and Compliance.</p>
   <ul>
-    <li><a href="steps.html">The GRC Framework: Understanding the Stages</a></li>
+    <li><a href="https://docs.google.com/document/d/1Zb9qdtv1fpy-3h5dcTX8AlKY2gjK7MeTwljZ5Z6Q6UU/edit?usp=drivesdk">The GRC Framework: Understanding the Stages</a></li>
     <li><a href="resources.html">Learn More: Helpful Resources for GRC Analysts</a></li>
   </ul>
 </body>
