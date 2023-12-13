@@ -35,7 +35,7 @@
   <p>Regularly assess the effectiveness of controls and update them as needed.</p>
   <h3>5. Reporting and Remediation: Transparency and Action</h3>
   <p>Communicate risk findings and implement corrective actions promptly.</p>
-  <a href="index.html">Back to Main Page</a>
+  <a href="https://github.com/AsiaLowen/AsiaLowen">Back to Main Page</a>
 </body>
 </html>
 <!DOCTYPE html>
@@ -56,4 +56,4 @@
     <li><a href="https://coursera.org/specializations/cybersecurity">Coursera Cybersecurity Specializations</a></li>
     <li><a href="https://aws.amazon.com/what-is/grc/">AWS Amazon GRC</a></li>
   </ul>
-  <a href="index.html">Back to Main Page</a>
+  <a href="https://github.com/AsiaLowen/AsiaLowen">Back to Main Page</a>
